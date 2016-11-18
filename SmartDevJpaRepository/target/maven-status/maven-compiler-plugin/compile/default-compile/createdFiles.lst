@@ -1,0 +1,17 @@
+com\controllers\Demo.class
+com\entities\Product.class
+com\jpaRepository\OrderProductRepository.class
+com\jpaRepository\ProductImagesRepository.class
+com\services\CategoryRepositoryServices.class
+com\controllers\AdminCategory.class
+com\jpaRepository\ProductRepository.class
+com\servicesImpl\CategoryRepositoryServicesImpl.class
+com\jpaRepository\ProductDetailRepository.class
+com\entities\OrderDetail.class
+com\entities\ProductDetail.class
+com\entities\Category.class
+com\controllers\AdminProduct.class
+com\entities\ProductImages.class
+com\jpaRepository\CategoryRepository.class
+com\entities\OrderProduct.class
+com\jpaRepository\OrderDetailRepository.class
